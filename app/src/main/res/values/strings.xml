@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculateTDEE</string>
+
+    <string-array name="activity_levels">
+        <item>Sedentary</item>
+        <item>Lightly Active</item>
+        <item>Moderately Active</item>
+        <item>Very Active</item>
+        <item>Extremely Active</item>
+    </string-array>
+
+</resources>
